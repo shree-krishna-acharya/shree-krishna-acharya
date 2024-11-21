@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nodejs, React, MongoDB, Mysql, Laravel
 - 🌱 I’m currently learning graphRag
 - 📫 How to reach me :- shree.acharya@ebpearls.com
-- 😄 Pronouns: shree
+- 😄 Nickname: shree
 - ⚡ Fun fact: When not observed, light exhibits behaviors of a wave : Reference **wave-particle duality**
 
 <!---
