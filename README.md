@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning graphRag
 - 📫 How to reach me :- shree.acharya@ebpearls.com
 - 😄 Nickname: shree
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
        - When not observed, light exhibits behaviors of a wave : Reference **wave-particle duality**
        - Supersolid state of light. ie light exhibits property of both solid and liquid.
 <!---
